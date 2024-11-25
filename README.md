@@ -3,7 +3,7 @@
 This is the official code of EHSnet. 
 Paper web page: [Explicit High-level Semantic Network for Domain Generalization in Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10750220).
 
-##Citation
+## Citation
 ```
 
 @ARTICLE{10750220,
