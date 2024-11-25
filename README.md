@@ -3,7 +3,7 @@
 This is the official code of EHSnet. 
 Paper web page: [Explicit High-level Semantic Network for Domain Generalization in Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10750220).
 
-## Citation
+##Citation
 ```
 
 @ARTICLE{10750220,
@@ -19,9 +19,11 @@ Paper web page: [Explicit High-level Semantic Network for Domain Generalization 
 
 ## Dataset
 You can download the Pavia and Houston dataset on [here](https://github.com/YuxiangZhang-BIT/Data-CSHSI). 
+
 As for the XS dataset, please contact the authors below:
-* [The effect of artificial intelligence evolving on hyperspectral imagery with different signal-to-noise ratio, spectral and spatial resolutions](https://www.sciencedirect.com/science/article/pii/S0034425724003092). 
-* [Design, Performance, and Applications of AMMIS: A Novel Airborne Multi-Modular Imaging Spectrometer for High-Resolution Earth Observations](https://www.sciencedirect.com/science/article/pii/S0034425724003092). 
+
+* [Jia J, Wang Y, Zheng X, et al. Design, Performance, and Applications of AMMIS: A Novel Airborne Multi-Modular Imaging Spectrometer for High-Resolution Earth Observations[J]. Engineering, 2024.](https://www.sciencedirect.com/science/article/pii/S2095809924006416). 
+
 
 The dataset directory should look like this:
 ```
